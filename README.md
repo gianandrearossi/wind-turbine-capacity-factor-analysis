@@ -1,5 +1,5 @@
 # Wind Turbine Capacity Factor Analysis
-### Post Oak Wind LLC — Abilene, TX | Gamesa G87-2.0 | MATLAB
+### Post Oak Wind LLC - Abilene, TX | Gamesa G87-2.0 | MATLAB
 
 MATLAB analysis of the **Post Oak Wind LLC** wind power plant (Plant ID: 56483), located near Abilene, Texas (−99.6564°, 32.5144°). The study covers capacity factor estimation, wind speed statistics, and a rated power uprating analysis using hourly wind data from 2019.
 
@@ -34,7 +34,7 @@ MATLAB analysis of the **Post Oak Wind LLC** wind power plant (Plant ID: 56483),
 
 ---
 
-## Methodology
+## Methodology and Main Results
 
 ### 1. Capacity Factor Estimation
 Wind speed data was sourced from [Renewables.ninja](https://www.renewables.ninja/) at the plant's coordinates and hub height. The power output was estimated using the **actuator disk model**:
@@ -60,6 +60,8 @@ A probability density function of hourly wind speeds is plotted with 1 m/s bin r
 The rated power of each turbine was increased in steps of 500 kW (from 2 MW up to 8.5 MW) to estimate the effect on annual energy output and capacity factor. Key findings:
 - Energy output increases up to a total rating of ~6.5 MW per turbine, after which gains plateau
 - Capacity factor decreases at every uprating step, as added capacity grows faster than added generation
+
+<img src="power_increase_effect.png" width="50%">
 
 ---
 
