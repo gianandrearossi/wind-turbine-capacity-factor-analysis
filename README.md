@@ -42,8 +42,8 @@ $$P_a = \frac{1}{2} \rho A v_w^3$$
 
 Four operating regions were modelled:
 - Below cut-in (< 4 m/s): turbine off
-- Maximum power region (4–14 m/s): power follows the actuator disk model
-- Rated power region (14–25 m/s): output capped at 2 MW
+- Maximum power region (4-14 m/s): power follows the actuator disk model
+- Rated power region (14-25 m/s): output capped at 2 MW
 - Above cut-out (> 25 m/s): turbine off
 
 The calculated annual capacity factor is **21.77%**, compared to **30.40%** from EIA-923 observed data (39.74% when adjusted for gearbox and generator losses).
@@ -64,9 +64,9 @@ The rated power of each turbine was increased in steps of 500 kW (from 2 MW up t
 
 ## Data Sources
 
-- **Wind speed data**: [Renewables.ninja](https://www.renewables.ninja/) — hourly, 2019
+- **Wind speed data**: [Renewables.ninja](https://www.renewables.ninja/) - hourly, 2019
 - **Plant location & turbine specs**: EIA Form 860, Schedules 2 & 3
-- **Observed generation**: EIA Form 923, Schedules 6–7
+- **Observed generation**: EIA Form 923, Schedules 6-7
 - **Turbine datasheet**: Gamesa G87-2.0 Technical File FT002404
 
 ---
@@ -81,4 +81,6 @@ The rated power of each turbine was increased in steps of 500 kW (from 2 MW up t
 ## Author
 
 **Gian Andrea Rossi**, 2026
+
+
 Developed as coursework for the Sustainable Electrical Systems module by the Department of Electrical Engineering at Imperial College London
