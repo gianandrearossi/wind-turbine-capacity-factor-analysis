@@ -1,5 +1,5 @@
 # Wind Turbine Capacity Factor Analysis
-### Post Oak Wind LLC — Abilene, TX | Gamesa G87-2.0 | MATLAB
+### Post Oak Wind LLC - Abilene, TX | Gamesa G87-2.0 | MATLAB
 
 MATLAB analysis of the **Post Oak Wind LLC** wind power plant (Plant ID: 56483), located near Abilene, Texas (−99.6564°, 32.5144°). The study covers capacity factor estimation, wind speed statistics, and a rated power uprating analysis using hourly wind data from 2019.
 
@@ -7,14 +7,14 @@ MATLAB analysis of the **Post Oak Wind LLC** wind power plant (Plant ID: 56483),
 
 ## Repository Structure
 
-```
-├── eia8602023/          # EIA Form 860 source data (plant location & turbine specs)
-├── f923_2019/           # EIA Form 923 source data (observed generation, 2019)
-├── Gamesa G87 2MW.pdf   # Turbine technical datasheet (Gamesa G87-2.0)
-├── main.mlx             # MATLAB Live Script with all calculations and plots
-├── Report.pdf           # PDF report exported from the Live Script
-└── Wind Data.csv        # Hourly wind speed data for 2019 at hub height (77.7 m)
-```
+| File / Folder | Description |
+|---------------|-------------|
+| `eia8602023/` | EIA Form 860 source data (plant location & turbine specs) |
+| `f923_2019/` | EIA Form 923 source data (observed generation, 2019) |
+| `Gamesa G87 2MW.pdf` | Turbine technical datasheet (Gamesa G87-2.0) |
+| `main.mlx` | MATLAB Live Script with all calculations and plots |
+| `Report.pdf` | PDF report exported from the Live Script |
+| `Wind Data.csv` | Hourly wind speed data for 2019 at hub height (77.7 m) |
 
 ---
 
