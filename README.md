@@ -49,6 +49,7 @@ Four operating regions were modelled:
 The calculated annual capacity factor is **21.77%**, compared to **30.40%** from EIA-923 observed data (39.74% when adjusted for gearbox and generator losses).
 
 ### 2. Wind Speed PDF
+![Wind Speed PDF](wind_speed_pdf.png)
 A probability density function of hourly wind speeds is plotted with 1 m/s bin resolution, highlighting the cut-in, rated, and cut-out regions. The plant operated at rated power for **179 out of 8760 hours** (2.04% of the year).
 
 ### 3. Rated Power Uprating Study
