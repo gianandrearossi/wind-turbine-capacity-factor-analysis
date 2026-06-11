@@ -63,7 +63,7 @@ The rated power of each turbine was increased in steps of 500 kW (from 2 MW up t
 - Energy output increases up to a total rating of ~6.5 MW per turbine, after which gains plateau
 - Capacity factor decreases at every uprating step, as added capacity grows faster than added generation
 
-<img src="power_increase_effect.png" width="50%">
+<img src="power_increase_effect.png" width="80%">
 
 ---
 
