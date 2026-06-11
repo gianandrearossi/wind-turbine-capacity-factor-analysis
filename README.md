@@ -81,7 +81,7 @@ The rated power of each turbine was increased in steps of 500 kW (from 2 MW up t
 
 ## Author
 
-**Gian Andrea Rossi**, 2026
+**Gian Andrea Rossi**, Academic Year 2026
 
 
 Developed as coursework for the Sustainable Electrical Systems module by the Department of Electrical Engineering at Imperial College London
