@@ -1,5 +1,5 @@
 # Wind Turbine Capacity Factor Analysis
-### Post Oak Wind LLC - Abilene, TX | Gamesa G87-2.0 | MATLAB
+### Post Oak Wind LLC — Abilene, TX | Gamesa G87-2.0 | MATLAB
 
 MATLAB analysis of the **Post Oak Wind LLC** wind power plant (Plant ID: 56483), located near Abilene, Texas (−99.6564°, 32.5144°). The study covers capacity factor estimation, wind speed statistics, and a rated power uprating analysis using hourly wind data from 2019.
 
@@ -49,7 +49,10 @@ Four operating regions were modelled:
 The calculated annual capacity factor is **21.77%**, compared to **30.40%** from EIA-923 observed data (39.74% when adjusted for gearbox and generator losses).
 
 ### 2. Wind Speed PDF
-![Wind Speed PDF](wind_speed_pdf.png)
+
+<img src="wind_speed_pdf.png" width="50%">
+
+
 A probability density function of hourly wind speeds is plotted with 1 m/s bin resolution, highlighting the cut-in, rated, and cut-out regions. The plant operated at rated power for **179 out of 8760 hours** (2.04% of the year).
 
 ### 3. Rated Power Uprating Study
