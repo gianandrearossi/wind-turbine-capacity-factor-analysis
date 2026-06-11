@@ -15,6 +15,7 @@ MATLAB analysis of the **Post Oak Wind LLC** wind power plant (Plant ID: 56483),
 | `main.mlx` | MATLAB Live Script with all calculations and plots |
 | `Report.pdf` | PDF report exported from the Live Script |
 | `Wind Data.csv` | Hourly wind speed data for 2019 at hub height (77.7 m) |
+| `wind_speed_pdf.png` | Probability Density function for the wind speed at the turbine nacelle's height |
 
 ---
 
